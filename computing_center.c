@@ -1,3 +1,3 @@
 function computing_center{};
-int player1;
-char player1_name;
+int player1; //player number
+char player1_name; //

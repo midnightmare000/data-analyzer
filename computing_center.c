@@ -4,3 +4,4 @@ int player1;
 char player1_name[kerker];
 
 //kerker
+//kerkerkereker

@@ -1,1 +1,2 @@
-function computing_center{}
+function computing_center{};
+int player1;

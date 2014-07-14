@@ -3,3 +3,7 @@
 void foo(){
 // do something
 }
+
+//kerker
+void foo1(){
+}
